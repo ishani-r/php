@@ -1,0 +1,52 @@
+
+//////////////////////////
+Hello all
+
+This is a Practical for Session
+-----------------------------------
+
+Create User Module. -- done
+
+* Auth Page (Any one can access this pages)
+----------------
+Login --- done
+Register --- done
+
+* Authorised page (only Authenticated user can access this pages)
+-----------------------------------------------
+Dashboard -- done
+
+After login/register user will redirect to their dashboard
+Show below pages on their dashboard ------- done
+
+1. show List of users who registered on system. --- done
+   -> only current/auth user have access to edit their detail --- done
+   -> other Listing user only can view details only -- done
+
+2. Edit Profile Page  
+   -> User can edit  Profile Details
+
+Users table   -------- done
+------------
+id
+first_name  
+last_name
+email
+username
+mobile
+password
+gender
+avatar(profile)
+status (active/deactive) 
+
+Need to following instructions 
+-----------------------------------------------         
+1) Client  side and Server validation required --- done
+2) Email,username and mobile will be unique in entire system --- done
+3) User can login with email ,username and mobile with password --- done
+4) Password must have store in md5 hashing --- done 
+5) Only active user can login into system 
+6) Create  new  project directory on your system all assets  and  page must includes on same directory   -- done
+7) Code  re-usability
+   
+*** You can ask if any doubt. feel free to ask ***  

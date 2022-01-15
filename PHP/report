@@ -1,0 +1,104 @@
+
+Change password Compare message --- DONE
+aad  Ajax Loader every action --- DONE
+for user watting  area --- DONE
+send  OTP If user Not verified account --- DONE
+and try to Login before  login verified   --- DONE
+Chage  if current password wrong  ---- DONE
+Image not update  on Header --- DONE
+	//--------------------------------Disabled button------------------
+	// $(':input[id="login"]').prop('disabled', true);
+	// $('input[type="text"]').keyup(function(){
+	// 	if($(this).val() != '') {
+	// 		$(':input[id="login"]').prop('disabled', false);
+	// 	}
+	// });
+
+
+	//----------------------------set timer-------------------------------
+		// document.getElementById('timer').innerHTML = 
+		// '01' + ":" + '00';
+	 //    startTimer();
+	 //    function startTimer() {
+	 //        var presentTime = document.getElementById('timer').innerHTML;
+	 //        var timeArray = presentTime.split(/[:]+/);
+	 //        var m = timeArray[0];
+	 //        var s = checkSecond((timeArray[1] - 1));
+	 //        if (s == 59) { m = m - 1 }
+	 //        if (m < 0) {
+	 //            return
+	 //        }
+	 //        document.getElementById('timer').innerHTML =
+	 //            m + ":" + s;
+	 //        console.log(m)
+	 //        setTimeout(startTimer, 1000);
+	 //    }
+	 //    function checkSecond(sec) {
+	 //        if (sec < 10 && sec >= 0) { sec = "0" + sec }; // add zero in front of numbers < 10
+	 //        if (sec < 0) { sec = "59" };
+	 //        return sec;
+	 //    }
+----------------------------------------------
+- what is composer
+- how update packege in composer file
+- what is web app
+- diff web app/website
+-----------------------------------------------
+
+Ishani Ranpariya
+Work Report 13/08/2021
+- OTP expire time complete
+- login user can only do forget password
+- send mail on register page and store otp in database
+- create otp verify page 
+- solve some error
+
+Ishani Ranpariya
+Work Report 16/08/2021
+- resend password completed in forgot password
+- resend password completed in signup 
+- verification completed
+- solve error
+- all previous task completed
+
+Ishani Ranpariya
+Work Report 17/08/2021
+- add loader in sinup page
+- update login user profile on header completed
+- send otp if user not verified
+- updation done given by vipul sir
+- design the block with full detailes on dashboard
+- solve some error
+- all previous task completed
+- learn laravel and watched tutorial videos
+- install laravel done
+- create one demo file in laravel
+
+Ishani Ranpariya
+Work Report 18/08/2021
+- watch and run laravel tutorial videos
+	- what is composer
+	- what is artisan serve and use
+	- what is controller
+	- view
+	- component
+	- Make First File
+	- Loops (if,elseif,foreach)
+	- create simple form and get data using controller
+
+Laravel commands
+
+- (laravel install)composer glober require laravel/installer
+- (virsion) laravel -v
+- (new folder)laravel new blog(folder name)
+- (start server)
+	- cd desktop
+	- cd blog
+	- php artisan serve
+
+
+
+---------------------------------
+- how update packege in composer file
+- what is web app
+- diff web app/website
